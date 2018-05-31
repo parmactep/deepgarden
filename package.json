@@ -1,0 +1,14 @@
+{
+  "name": "deepgarden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "parmactep (https://github.com/parmactep)",
+  "license": "MIT",
+  "peerDependencies": {
+    "stylus": "^0.54.5"
+  }
+}
